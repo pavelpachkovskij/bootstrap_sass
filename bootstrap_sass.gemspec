@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = BootstrapSass::VERSION
   spec.authors       = ["Pavel Pachkovskij"]
   spec.email         = ["pavel.pachkovskij@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Rails 3.2.x compatable twitter bootstrap sass gem.}
+  spec.description   = %q{Rails 3.2.x compatable twitter bootstrap sass gem.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
